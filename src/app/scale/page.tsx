@@ -6,7 +6,7 @@ export default function ScalePage() {
     <Hero
       imgData={scaleImg}
       imgAlt="scale-image"
-      title="Scale your app to infinity."
+      title="Scale your app."
     />
   );
 }
